@@ -106,7 +106,7 @@ const Signin = () => {
                 </div>
                 <div className="flex mt-8 mx-auto">
                     <p>Already have an account?</p>
-                    <Link to={"/signup"} className="ml-2 text-primary">Register</Link>
+                    <Link to={"/register"} className="ml-2 text-primary">Register</Link>
                 </div>
               </div>
             </div>
